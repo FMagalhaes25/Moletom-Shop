@@ -19,7 +19,7 @@ O objetivo é praticar a estruturação de páginas com HTML semântico e estili
 🔹 Tecnologias Utilizadas
 
 HTML5<br>
-CSS3 (puro, sem frameworks)
+CSS3
 
 <br>
 
